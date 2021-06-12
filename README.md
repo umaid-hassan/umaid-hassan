@@ -2,6 +2,26 @@
 <h2>🌏👨‍💻Environmentalist | Developer</h2>
 <hr>
 
+```javascript
+const umaid = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "R", "Python", "php"],
+    askMeAbout: ["Web GIS", "Web Dev", "App dev", "Gaming"],
+    technologies: {
+        frontEnd: {
+            js: ["Leaflet", "React"],
+            css: ["materialize", "SASS", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"]
+        },
+        databases: ["Postgres", "MySql", "sqlite"],
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    funFact: "Ctrl + C and Ctrl + V have saved more lives than Batman and Robin."
+};
+```
+
 <h3>How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/umaidhassan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
