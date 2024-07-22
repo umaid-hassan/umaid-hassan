@@ -1,12 +1,12 @@
 <h1>Hello, I'm Umaid Hassan 🙋‍♂️</h1>
-<h2>🌏👨‍💻Environmentalist | Developer</h2>
+<h2>🌏👨‍💻Environmentalist | Data Analyst | GIS Engineer </h2>
 <hr>
 
 ```javascript
 const umaid = {
     pronouns: "He" | "Him",
     code: ["Javascript", "R", "Python", "php"],
-    askMeAbout: ["Web GIS", "Web Dev", "App dev", "Gaming"],
+    askMeAbout: ["Web GIS", "Web Dev"],
     technologies: {
         frontEnd: {
             js: ["Leaflet", "React"],
@@ -18,6 +18,8 @@ const umaid = {
         databases: ["Postgres", "MySql", "sqlite"],
     },
     architecture: [ "Progressive web applications", "Single page applications"],
+    Spatial Analysis Softwares: [ "ARCGIS", "ARCGIS Pro", "QGIS"],
+    Data Analysis Softwares: ["Power BI"],
     funFact: "Ctrl + C and Ctrl + V have saved more lives than Batman and Robin."
 };
 ```
